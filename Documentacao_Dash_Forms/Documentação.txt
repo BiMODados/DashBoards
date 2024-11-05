@@ -1,0 +1,72 @@
+Explicação dos visuais:
+
+Filtro:
+Coluna: Genero
+
+Cartões:
+1° Cartão (Total respostas):
+Assunto: Traz informação da contagem total de respostas
+Dax utilizado: Contagem Respostas
+
+2° Cartão (Respostas de MEI/ME):
+Assunto: Traz informação da contagem total de respostas de MEI'S e ME'S
+Dax utilizado: Contagem_MEI/ME
+
+3° Cartão (Contagem Utilizariam app):
+Assunto: Traz informação da contagem total de pessoas que utilizariam o app
+Dax utilizado: Contagem Utilizariam app
+
+Gráficos:
+
+Linha:
+Assunto: Traz informação de pessoas/ empresas que sofrem com problemas de Gestão financeira, Falta de divulgação e questões tributarias distribuidas por tempo de vida de MEI/ME
+Dax utilizado: Soma Falta divulgação/ Gestão financeira/ Questões tributárias
+Coluna: Tempo de vida (num) da MEI/ME
+
+Coluna:
+Assunto: Traz informação das pessoas/ empresas que utilizariam o app distribuidos por área de atuação
+Dax utilizado: Contagem Utilizariam app
+Coluna: Ramo atuacao
+
+Pizza:
+Assunto: Traz informação das pessoas/ empresas que acham importante chat/ interações por genero
+Dax utilizado: Contagem acha importante chat
+Coluna: Genero
+
+Tabela:
+Assunto: Traz informações distribuidas por faixa etaria (Contagem de MEI/ME, Utilizariam o app, Contagem Respostas)
+Dax utilizados: [Contagem Respostas, Contagem Utilizariam app, Contagem_MEI/ME]
+Coluna: Faixa etaria
+
+Nuvém de palavras:
+Assunto: Traz informações das palavras citadas nesse campo que é aberto a respostas diversas
+Coluna: Maquinario/equipamento que venderia no app
+
+Treemap:
+Assunto: Traz informações das pessoas/empresas que acham importante ter curso/ artigo no app por faixa etaria
+Dax utilizado: Contagem acha importante curso/artigo
+Coluna: Faixa etaria
+
+Storytelling (explicação dos dados):
+
+Nossa startup Kyndred está desenvolvendo a BiMO, uma plataforma inovadora que conecta micro e pequenas empresas (MEIs e MEs) em transição. Queremos facilitar a conexão entre empresas que estão encerrando suas atividades e novos empreendedores em busca de oportunidades de crescimento. Recentemente, conduzimos uma pesquisa para entender melhor as necessidades do nosso público-alvo e como nossa solução pode impactar suas trajetórias empresariais. Os resultados obtidos fornecem insights importantes para o futuro da nossa plataforma.
+
+Participação e Interesse: 
+Com 78 respostas no total, sendo 20 de MEIs e MEs, nossa pesquisa mostra um interesse significativo na proposta da BiMO. O mais animador é que 59 dos respondentes afirmaram que utilizariam o aplicativo, o que destaca uma alta aceitação e percepção de valor pela comunidade empreendedora. Isso nos dá confiança de que estamos desenvolvendo uma solução com grande potencial de adesão.
+
+Desafios e Demandas: 
+Ao analisarmos os principais desafios enfrentados por esses empreendedores, os dados indicam que a falta de divulgação, questões tributárias e gestão financeira são preocupações constantes. Esses fatores estão fortemente correlacionados com o tempo de atuação no mercado, sendo mais notórios para quem tem mais de 5 anos de experiência. Isso reforça a importância de oferecermos cursos e ferramentas de apoio que vão além do marketplace, abrangendo questões fundamentais de gestão e desenvolvimento de negócios.
+
+Setores com Maior Interesse: 
+Quando olhamos para o interesse no uso da plataforma por área de atuação, o comércio e serviços se destacam como os setores com maior potencial de engajamento, seguidos por tecnologia e alimentação. Esses dados são cruciais para que possamos focar nossas estratégias iniciais de lançamento, garantindo que estamos atendendo às necessidades mais urgentes de nossos futuros usuários.
+
+Perfil Demográfico: 
+A análise demográfica revela que a faixa etária 0-17 anos concentra a maior parte dos usuários que se interessam em utilizar a plataforma, com 18 pessoas. Essa faixa é seguida pela de 30-39 anos, com 15 potenciais usuários. Essa informação nos ajuda a entender melhor quem é o nosso público-alvo principal, permitindo que direcionemos as campanhas de marketing e desenvolvimento de funcionalidades voltadas para esse perfil. Além disso, a tabela por faixa etária confirma que estamos captando interesse em diferentes faixas etárias, o que demonstra a versatilidade e relevância da BiMO para uma diversidade de empreendedores.
+
+Funcionalidades Valorizadas: 
+Um aspecto essencial que exploramos foi a percepção de valor em relação às funcionalidades do app. A interação por meio do chat foi vista como essencial, principalmente entre as mulheres, com 49,3% das respondentes afirmando que isso é uma característica importante. Ao mesmo tempo, a oferta de cursos e artigos também tem grande relevância, especialmente para a faixa etária mais jovem (0-17 anos), com 26 respondentes classificando essa funcionalidade como crucial. Isso reforça a importância de investirmos em uma plataforma robusta que ofereça não apenas ferramentas de negociação, mas também suporte educacional e de networking.
+
+Interesse em Produtos: 
+Por fim, a nuvem de palavras gerada a partir das respostas dos participantes mostra um claro interesse em produtos como máquinas, equipamentos e eletrônicos, que são essenciais para novos empreendedores que buscam iniciar ou expandir seus negócios. Essa informação nos direciona a focar em parcerias e ofertas que atendam a essas demandas.
+
+Com essas análises, estamos confiantes de que a BiMO está sendo desenvolvida no caminho certo. Nossa plataforma não será apenas um marketplace, mas sim um ecossistema completo para facilitar a transição e o crescimento dos pequenos empreendedores.
